@@ -34,7 +34,6 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=balamuralikrishna06&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=balamuralikrishna06&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balamuralikrishna06&" alt="balamuralikrishna06" /
 </p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balamuralikrishna06&" alt="balamuralikrishna06" /></p>
