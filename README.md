@@ -37,6 +37,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balamuralikrishna06&" alt="balamuralikrishna06" /
 </p>
 
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg"/>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="100">
 </p>
