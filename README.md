@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif)
 <h1 align="center">Hi 👋, I'm Bala Murali Krishna S</h1>
 <h3 align="center">I’m an Information Technology student and AI enthusiast passionate about building tech that solves real-world problems. From voice-first applications for rural development to multimodal tools for media analysis, I enjoy pushing the boundaries of what’s possible with Generative AI</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
